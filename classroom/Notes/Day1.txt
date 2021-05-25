@@ -1,0 +1,18 @@
+jsx - Javascript + html
+
+tsx - typescript + html
+
+ES6 - Ecma Scripting
+
+ES5 ==> babel (Compiler/Parser)
+
+Why? React - ES6/ES7 - Functional Component?
+	=> Neater and Cleaner
+	=> Almost similar to Angular way of writing
+	=> Readability of Source Code
+	=> Maintainability is easy
+	=> Reusability is high
+
+Chrome ==> v8 engine
+ie ==> spiderMonkey
+FoxPro ==> Chakra

@@ -1,0 +1,15 @@
+1. Remove all default code --> App.js
+2. Setup our own home page
+3. Write small components - Integrating
+
+4. Advantages of Seggregation of Code -- Modularisation?
+    => Code Organisation
+    => Easy Manage
+    => Increase Code Redeability -- Code will like book reading
+    => Ease to Update/Append
+    => High Maintanability
+    => Low Complexity
+    => Reusability - High
+    => Neat and Clean code
+    => Seasy to theme
+    => Collabration -- Team collabration is very high

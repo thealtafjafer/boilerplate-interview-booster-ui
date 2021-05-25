@@ -1,0 +1,7 @@
+1. Create New React App
+2. Refactored the App.js - Remove all default code
+3. Create small components structure
+4. Two number comparison
+5. Three number comparison
+6. React Hooks - useState - Maintain the component state
+7. useEffect - handle the change of value and manage data

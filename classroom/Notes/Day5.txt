@@ -1,0 +1,7 @@
+1. CSS styling
+2. Reusability of css Class
+3. Backgroung collabration
+4. Alternate baground color
+5. BoxModel - Margin, Padding, broder etc
+6. Agile - Scrum - Stories - Methodologoy
+7. Feature branch - Creation - Git
