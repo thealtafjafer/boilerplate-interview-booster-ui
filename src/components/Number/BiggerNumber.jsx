@@ -29,7 +29,8 @@ export const BiggerNumber = () => {
       <h3>Bigger Number Problem</h3>
       <p>
         First Number :
-        <input type="number" onChange={handleOnchangeFirstNum}></input>
+        <input type="number" onChange={handleOnchangeFirstNum}></input>.3
+        
       </p>
       <p>
         Second Number :{" "}
