@@ -5,3 +5,7 @@
 5. Three number comparison
 6. React Hooks - useState - Maintain the component state
 7. useEffect - handle the change of value and manage data
+8. Events - onChange, onClick
+9. Synthetic Event 
+10. Ternary Operator - if-else (   age>18 ? true : false   )
+11. parseInt - Converting string to Integer/Number

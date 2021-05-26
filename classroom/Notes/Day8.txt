@@ -1,0 +1,8 @@
+1. Cart -> eCommerse
+2. Addition of Product +
+3. Substration of Product -
+4. Closure - 100% probability
+5. JSX - Core concept
+6. Virtual DOM 
+7. Difference between DOM and Virtual DOM
+8. useState Hooks ---> Core reason
